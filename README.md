@@ -33,7 +33,7 @@ ELM出现时，Hα信号幅值整体下降，能量约束水平上升，伴随�
 ### 混淆矩阵：
 对25000余炮进行了识别，得到以下结果：
 
-<img src=https://github.com/yellowyellowyao/ELM_recognition/blob/master/picture/%E6%B7%B7%E6%B7%86%E7%9F%A9%E9%98%B5.png width = "400" height = "400" />
+<img src=https://github.com/yellowyellowyao/ELM_recognition/blob/master/picture/%E6%B7%B7%E6%B7%86%E7%9F%A9%E9%98%B5.png width = "400" height = "300" />
 
 在所有正确识别的炮中，时间节点的误差不超过20ms,该误差可以满足实时控制精度要求！
 
