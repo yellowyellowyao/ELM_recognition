@@ -14,7 +14,7 @@ ELM出现时，Hα信号幅值整体下降，能量约束水平上升，伴随�
 
 
 ## 网络结构
-<img src=https://github.com/yellowyellowyao/ELM_recognition/blob/master/picture/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%A4%BA%E6%84%8F%E5%9B%BE.png width = "600" height = "400" />
+<img src=https://github.com/yellowyellowyao/ELM_recognition/blob/master/picture/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%A4%BA%E6%84%8F%E5%9B%BE.png width = "600" height = "200" />
 
 
 ## 识别效果展示
@@ -22,7 +22,7 @@ ELM出现时，Hα信号幅值整体下降，能量约束水平上升，伴随�
 <img src=https://github.com/yellowyellowyao/ELM_recognition/blob/master/picture/%E8%AF%86%E5%88%AB%E6%95%88%E6%9E%9C%E7%A4%BA%E6%84%8F%E5%9B%BE1.png width = "600" height = "400" />
 
 ### 识别效果示意图2：
-<img src=https://github.com/yellowyellowyao/ELM_recognition/blob/master/picture/%E8%AF%86%E5%88%AB%E6%95%88%E6%9E%9C%E7%A4%BA%E6%84%8F%E5%9B%BE2.png width = "600" height = "400" />
+<img src=https://github.com/yellowyellowyao/ELM_recognition/blob/master/picture/%E8%AF%86%E5%88%AB%E6%95%88%E6%9E%9C%E7%A4%BA%E6%84%8F%E5%9B%BE2.png width = "600" height = "200" />
 
 ## 计算时间分布
 <img src=https://github.com/yellowyellowyao/ELM_recognition/blob/master/picture/%E8%AF%86%E5%88%AB%E6%97%B6%E9%97%B4%E6%B5%8B%E8%AF%95%E5%9B%BE.png width = "600" height = "400" />
