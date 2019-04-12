@@ -41,4 +41,5 @@ ELM出现时，Hα信号幅值整体下降，能量约束水平上升，伴随�
 ## 计算时间分布
 开发了对应了C/C++接口，在CentOS（128G 内存）上进行了速度测试，得到以下结果：
 <img src=https://github.com/yellowyellowyao/ELM_recognition/blob/master/picture/%E8%AF%86%E5%88%AB%E6%97%B6%E9%97%B4%E6%B5%8B%E8%AF%95%E5%9B%BE.png width = "600" height = "400" />
+
 该计算速度可以满足实时控制的速度要求！
